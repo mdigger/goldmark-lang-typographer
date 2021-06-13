@@ -1,5 +1,7 @@
 # Goldmark Typographer Language Extension
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/mdigger/goldmark-lang-typographer.svg)](https://pkg.go.dev/github.com/mdigger/goldmark-lang-typographer)
+
 Package typographer allows you to select the language typographic substitutions 
 for Goldmark Typographer.
 
