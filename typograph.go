@@ -246,7 +246,6 @@ var (
 		language.Hindi,               // hi - Hindi
 		language.MustParse("ia"),     // Interlingua
 		language.Indonesian,          // id - Indonesian
-		language.Korean,              // ko - Korean
 		language.MustParse("ko-KR"),  // Korean, South Korea
 		language.MustParse("mt"),     // Maltese
 		language.Dutch,               // nl - Dutch
